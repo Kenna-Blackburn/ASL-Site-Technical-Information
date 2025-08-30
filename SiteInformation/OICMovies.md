@@ -38,11 +38,14 @@ Thumbnails and other images, like the video and caption files, are hosted throug
 
 ### Sitemap
 
-OIC Movie's Sitemap can be found at [/wp-sitemap.xml](https://www.oicmovies.com/wp-sitemap.xml) or [/static/assets/sitemap.xml](https://www.oicmovies.com/static/assets/sitemap.xml). It indexes every page, including every post ([`/wp-sitemap-posts-post-1.xml`](https://www.oicmovies.com/wp-sitemap-posts-post-1.xml) and [`/wp-sitemap-posts-post-1.xml`](https://www.oicmovies.com/wp-sitemap-posts-post-2.xml)), tag ([`/wp-sitemap-taxonomies-post_tag-1.xml`](https://www.oicmovies.com/wp-sitemap-taxonomies-post_tag-1.xml) and [`/wp-sitemap-taxonomies-post_tag-2.xml`](https://www.oicmovies.com/wp-sitemap-taxonomies-post_tag-2.xml)), branch ([`/wp-sitemap-posts-page-1.xml`](https://www.oicmovies.com/wp-sitemap-posts-page-1.xml)), author ([`/wp-sitemap-users-1.xml`](https://www.oicmovies.com/wp-sitemap-users-1.xml)).
+OIC Movie's Sitemap can be found at [/wp-sitemap.xml](https://www.oicmovies.com/wp-sitemap.xml) or [/static/assets/sitemap.xml](https://www.oicmovies.com/static/assets/sitemap.xml). It indexes every page, including every post ([`/wp-sitemap-posts-post-1.xml`](https://www.oicmovies.com/wp-sitemap-posts-post-1.xml) and [`/wp-sitemap-posts-post-1.xml`](https://www.oicmovies.com/wp-sitemap-posts-post-2.xml)), tag ([`/wp-sitemap-taxonomies-post_tag-1.xml`](https://www.oicmovies.com/wp-sitemap-taxonomies-post_tag-1.xml) and [`/wp-sitemap-taxonomies-post_tag-2.xml`](https://www.oicmovies.com/wp-sitemap-taxonomies-post_tag-2.xml)), branch ([`/wp-sitemap-posts-page-1.xml`](https://www.oicmovies.com/wp-sitemap-posts-page-1.xml)), and author ([`/wp-sitemap-users-1.xml`](https://www.oicmovies.com/wp-sitemap-users-1.xml)).
 
 ### Posts by ID
 
+Pages with videos and accompanying thumbnails can be redirected to by URLs in the format `https://www.oicmovies.com/?attachment_id=<#Int#>`. This can also be used for embedding in the format `https://www.oicmovies.com/?attachment_id=<#Int#>&amp;kgvid_video_embed[enable]=true`.
 
+**Ex:** [`https://www.oicmovies.com/?attachment_id=4234`](https://www.oicmovies.com/?attachment_id=4234)
+**Ex:** [`https://www.oicmovies.com/?attachment_id=4234&amp;kgvid_video_embed[enable]=true`](https://www.oicmovies.com/?attachment_id=4234&amp;kgvid_video_embed[enable]=true)
 
 <!-- MARK: Footnotes -->
 [^help.asl]: [What is ASL?](https://en.wikipedia.org/wiki/American_Sign_Language)
