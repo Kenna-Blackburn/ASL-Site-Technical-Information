@@ -45,6 +45,7 @@ OIC Movie's Sitemap can be found at [/wp-sitemap.xml](https://www.oicmovies.com/
 Pages with videos and accompanying thumbnails can be redirected to by URLs in the format `https://www.oicmovies.com/?attachment_id=<#Int#>`. This can also be used for embedding in the format `https://www.oicmovies.com/?attachment_id=<#Int#>&amp;kgvid_video_embed[enable]=true`.
 
 **Ex:** [`https://www.oicmovies.com/?attachment_id=4234`](https://www.oicmovies.com/?attachment_id=4234)
+
 **Ex:** [`https://www.oicmovies.com/?attachment_id=4234&amp;kgvid_video_embed[enable]=true`](https://www.oicmovies.com/?attachment_id=4234&amp;kgvid_video_embed[enable]=true)
 
 <!-- MARK: Footnotes -->
