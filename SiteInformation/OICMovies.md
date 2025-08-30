@@ -4,7 +4,7 @@
 
 # OIC Movies Technical Information
 
-[OIC Movies](https://www.oicmovies.com) is a site featuring captioned ASL[^help.asl] Videos meant for student practice. Its hosted through WordPress[^help.wordpress] and has a [Membership](https://www.oicmovies.com/membership-account/membership-levels).
+[OIC Movies](https://www.oicmovies.com) is a site featuring captioned ASL Videos meant for student practice. Its hosted through WordPress[^help.wordpress] and has a [Membership](https://www.oicmovies.com/membership-account/membership-levels).
 
 ## Files
 
@@ -49,7 +49,6 @@ Pages with videos and accompanying thumbnails can be redirected to by URLs in th
 **Ex:** [`https://www.oicmovies.com/?attachment_id=4234&amp;kgvid_video_embed[enable]=true`](https://www.oicmovies.com/?attachment_id=4234&amp;kgvid_video_embed[enable]=true)
 
 <!-- MARK: Footnotes -->
-[^help.asl]: [What is ASL?](https://en.wikipedia.org/wiki/American_Sign_Language)
 [^help.wordpress]: [What is WordPress?](https://wordpress.com)
 [^help.ogp]: [What is the Open Graph Protocol?](https://ogp.me)
 [^help.mp4]: [What is an MP4?](https://en.wikipedia.org/wiki/MP4_file_format)
