@@ -35,11 +35,12 @@ Captions are stored outside of the MP4s in VTT[^help.vtt] and XML[^help.xml] fil
 
 ### Posts by ID
 
+## Footnotes
 <!-- MARK: Footnotes -->
-[^help.asl]: https://en.wikipedia.org/wiki/American_Sign_Language
-[^help.wordpress]: https://wordpress.com
-[^help.mp4]: https://en.wikipedia.org/wiki/MP4_file_format
-[^help.regex]: https://en.wikipedia.org/wiki/Regular_expression
-[^help.vtt]: https://en.wikipedia.org/wiki/WebVTT
-[^help.xml]: https://en.wikipedia.org/wiki/XML
-[^help.ogp]: https://ogp.me
+[^help.asl]: [What is ASL?](https://en.wikipedia.org/wiki/American_Sign_Language)
+[^help.wordpress]: [What is WordPress?](https://wordpress.com)
+[^help.mp4]: [What is an MP4?](https://en.wikipedia.org/wiki/MP4_file_format)
+[^help.regex]: [What is a Regex?](https://en.wikipedia.org/wiki/Regular_expression)
+[^help.vtt]: [What is a VTT?](https://en.wikipedia.org/wiki/WebVTT)
+[^help.xml]: [What is an XML?](https://en.wikipedia.org/wiki/XML)
+[^help.ogp]: [What is the Open Graph Protocol?](https://ogp.me)
