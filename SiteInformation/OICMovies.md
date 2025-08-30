@@ -1,3 +1,4 @@
+
 > [!IMPORTANT]  
 > This documentation is a **Work In Progress**.
 
@@ -29,18 +30,26 @@ Captions are stored outside of the MP4s in VTT[^help.vtt] and XML[^help.xml] fil
 
 ### Images
 
+Thumbnails and other images, like the video and caption files, are hosted through WordPress. All images are stored in multiple resoultions as JPEGs[^help.jpeg]. Thumbnails are named the same as the MP4 they shadow appended `_thumb0`. Resolutions are incuded in the filenames with the appensions `-100x50`, `-150x150`, `-250x150`, `-270x134`, or `-300x120`. All images, including thumbnails, are named with their resolution.
+
+**Ex:** [`https://www.oicmovies.com/wp-content/uploads/2015/03/2011_0501_cassie_dadicecream_thumb0-270x134.jpg`](https://www.oicmovies.com/wp-content/uploads/2015/03/2011_0501_cassie_dadicecream_thumb0-270x134.jpg)
+
 ## URLs
 
 ### Sitemap
 
+
+
 ### Posts by ID
 
-## Footnotes
+
+
 <!-- MARK: Footnotes -->
 [^help.asl]: [What is ASL?](https://en.wikipedia.org/wiki/American_Sign_Language)
 [^help.wordpress]: [What is WordPress?](https://wordpress.com)
+[^help.ogp]: [What is the Open Graph Protocol?](https://ogp.me)
 [^help.mp4]: [What is an MP4?](https://en.wikipedia.org/wiki/MP4_file_format)
 [^help.regex]: [What is a Regex?](https://en.wikipedia.org/wiki/Regular_expression)
 [^help.vtt]: [What is a VTT?](https://en.wikipedia.org/wiki/WebVTT)
 [^help.xml]: [What is an XML?](https://en.wikipedia.org/wiki/XML)
-[^help.ogp]: [What is the Open Graph Protocol?](https://ogp.me)
+[^help.jpeg]: [What is a JPEG?](https://en.wikipedia.org/wiki/JPEG)
