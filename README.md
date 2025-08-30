@@ -6,6 +6,9 @@
 
 Reverse engineered technical information on various ASL-related sites.
 
+> [!IMPORTANT]
+> I am not Deaf nor am I affiliated with any of the below sites.
+
 ## Sites
 
 * [**OIC Movies**](/SiteInformation/OICMovies.md)
